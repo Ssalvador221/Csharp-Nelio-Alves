@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\bin\Debug\net5.0\VoltandoComCsharp.exe
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\bin\Debug\net5.0\VoltandoComCsharp.deps.json
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\bin\Debug\net5.0\VoltandoComCsharp.runtimeconfig.json
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\bin\Debug\net5.0\VoltandoComCsharp.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\bin\Debug\net5.0\VoltandoComCsharp.dll
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\bin\Debug\net5.0\VoltandoComCsharp.pdb
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.dll
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\refint\VoltandoComCsharp.dll
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.pdb
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\VoltandoComCsharp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\VoltandoComCsharp\VoltandoComCsharp\obj\Debug\net5.0\ref\VoltandoComCsharp.dll

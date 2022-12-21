@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpbZL1516Iufweob02Bbl/KsWBFh7zT1IfBMMvJQ2ArkivEL8/CYoJWJ2nnf89lVwcuyAH2hujwM6xRX6npGZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\VoltandoComCsharp\\VoltandoComCsharp\\VoltandoComCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
